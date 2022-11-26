@@ -1,5 +1,5 @@
 #importing required modules
-import circuit as q
+from Quantumcircuit import circuit as q
 import random,numpy
 import matplotlib.pyplot as bar
 
