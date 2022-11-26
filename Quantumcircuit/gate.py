@@ -1,6 +1,6 @@
 #importing required modules
 import numpy,math
-import circuit as q
+from Quantumcircuit import circuit as q
 
 #defining value of a
 a=math.e**(1j*math.pi/4)
